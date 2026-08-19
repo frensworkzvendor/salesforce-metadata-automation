@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>用于验证和管理转移权限相关功能。</description>
+    <enableActivities>true</enableActivities>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
+    <label>转移权限</label>
+    <nameField>
+        <displayFormat>TP-{0000}</displayFormat>
+        <label>转移权限名称</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>转移权限</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>

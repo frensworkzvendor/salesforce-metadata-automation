@@ -3,6 +3,7 @@
     <types>
         <members>Monday_Automation_Test__c</members>
         <members>Thursday_Test__c</members>
+        <members>Transfer_Permission__c</members>
         <name>CustomObject</name>
     </types>
     <types>

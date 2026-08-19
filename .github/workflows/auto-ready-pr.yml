@@ -8,21 +8,21 @@ on:
       - synchronize
 
 permissions:
-  contents: write
-  pull-requests: write
+  contents: read
+  pull-requests: read
 
 jobs:
   auto-ready:
+    name: auto-ready
     runs-on: ubuntu-latest
+
+    if: github.event.pull_request.draft == true
 
     steps:
       - name: Mark Draft PR as Ready for Review
         env:
-          GH_TOKEN: ${{ github.token }}
+          GH_TOKEN: ${{ secrets.GH_PAT }}
           PR_NUMBER: ${{ github.event.pull_request.number }}
           REPO: ${{ github.repository }}
         run: |
-          set -euo pipefail
-
-          gh pr ready "$PR_NUMBER" \
-            --repo "$REPO"
+          gh pr ready "$PR_NUMBER" --repo "$REPO"

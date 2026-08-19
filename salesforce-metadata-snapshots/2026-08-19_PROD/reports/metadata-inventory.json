@@ -1,0 +1,1227 @@
+[
+  {
+    "index": 1,
+    "metadataType": "CustomObject",
+    "metadataName": "Account"
+  },
+  {
+    "index": 2,
+    "metadataType": "CustomObject",
+    "metadataName": "AccountCleanInfo"
+  },
+  {
+    "index": 3,
+    "metadataType": "CustomObject",
+    "metadataName": "AccountContactRole"
+  },
+  {
+    "index": 4,
+    "metadataType": "CustomObject",
+    "metadataName": "Activity"
+  },
+  {
+    "index": 5,
+    "metadataType": "CustomObject",
+    "metadataName": "AiJobRun"
+  },
+  {
+    "index": 6,
+    "metadataType": "CustomObject",
+    "metadataName": "AlternativePaymentMethod"
+  },
+  {
+    "index": 7,
+    "metadataType": "CustomObject",
+    "metadataName": "AnalyticsUserAttrFuncTkn"
+  },
+  {
+    "index": 8,
+    "metadataType": "CustomObject",
+    "metadataName": "ApprovalSubmission"
+  },
+  {
+    "index": 9,
+    "metadataType": "CustomObject",
+    "metadataName": "ApprovalSubmissionDetail"
+  },
+  {
+    "index": 10,
+    "metadataType": "CustomObject",
+    "metadataName": "ApprovalWorkItem"
+  },
+  {
+    "index": 11,
+    "metadataType": "CustomObject",
+    "metadataName": "Asset"
+  },
+  {
+    "index": 12,
+    "metadataType": "CustomObject",
+    "metadataName": "AssetAction"
+  },
+  {
+    "index": 13,
+    "metadataType": "CustomObject",
+    "metadataName": "AssetActionSource"
+  },
+  {
+    "index": 14,
+    "metadataType": "CustomObject",
+    "metadataName": "AssetRelationship"
+  },
+  {
+    "index": 15,
+    "metadataType": "CustomObject",
+    "metadataName": "AssetStatePeriod"
+  },
+  {
+    "index": 16,
+    "metadataType": "CustomObject",
+    "metadataName": "AssistantProgress"
+  },
+  {
+    "index": 17,
+    "metadataType": "CustomObject",
+    "metadataName": "AssociatedLocation"
+  },
+  {
+    "index": 18,
+    "metadataType": "CustomObject",
+    "metadataName": "AuthorizationForm"
+  },
+  {
+    "index": 19,
+    "metadataType": "CustomObject",
+    "metadataName": "AuthorizationFormConsent"
+  },
+  {
+    "index": 20,
+    "metadataType": "CustomObject",
+    "metadataName": "AuthorizationFormDataUse"
+  },
+  {
+    "index": 21,
+    "metadataType": "CustomObject",
+    "metadataName": "AuthorizationFormText"
+  },
+  {
+    "index": 22,
+    "metadataType": "CustomObject",
+    "metadataName": "BatchJob"
+  },
+  {
+    "index": 23,
+    "metadataType": "CustomObject",
+    "metadataName": "BatchJobPart"
+  },
+  {
+    "index": 24,
+    "metadataType": "CustomObject",
+    "metadataName": "BatchJobPartFailedRecord"
+  },
+  {
+    "index": 25,
+    "metadataType": "CustomObject",
+    "metadataName": "BusinessBrand"
+  },
+  {
+    "index": 26,
+    "metadataType": "CustomObject",
+    "metadataName": "Campaign"
+  },
+  {
+    "index": 27,
+    "metadataType": "CustomObject",
+    "metadataName": "CampaignMember"
+  },
+  {
+    "index": 28,
+    "metadataType": "CustomObject",
+    "metadataName": "CardPaymentMethod"
+  },
+  {
+    "index": 29,
+    "metadataType": "CustomObject",
+    "metadataName": "Case"
+  },
+  {
+    "index": 30,
+    "metadataType": "CustomObject",
+    "metadataName": "CaseContactRole"
+  },
+  {
+    "index": 31,
+    "metadataType": "CustomObject",
+    "metadataName": "CaseMilestone"
+  },
+  {
+    "index": 32,
+    "metadataType": "CustomObject",
+    "metadataName": "CaseRelatedIssue"
+  },
+  {
+    "index": 33,
+    "metadataType": "CustomObject",
+    "metadataName": "ChangeRequest"
+  },
+  {
+    "index": 34,
+    "metadataType": "CustomObject",
+    "metadataName": "ChangeRequestRelatedIssue"
+  },
+  {
+    "index": 35,
+    "metadataType": "CustomObject",
+    "metadataName": "ChangeRequestRelatedItem"
+  },
+  {
+    "index": 36,
+    "metadataType": "CustomObject",
+    "metadataName": "ChatterActivity"
+  },
+  {
+    "index": 37,
+    "metadataType": "CustomObject",
+    "metadataName": "CollaborationGroup"
+  },
+  {
+    "index": 38,
+    "metadataType": "CustomObject",
+    "metadataName": "CollaborationGroupMember"
+  },
+  {
+    "index": 39,
+    "metadataType": "CustomObject",
+    "metadataName": "CommSubscription"
+  },
+  {
+    "index": 40,
+    "metadataType": "CustomObject",
+    "metadataName": "CommSubscriptionChannelType"
+  },
+  {
+    "index": 41,
+    "metadataType": "CustomObject",
+    "metadataName": "CommSubscriptionConsent"
+  },
+  {
+    "index": 42,
+    "metadataType": "CustomObject",
+    "metadataName": "CommSubscriptionTiming"
+  },
+  {
+    "index": 43,
+    "metadataType": "CustomObject",
+    "metadataName": "Consent__c"
+  },
+  {
+    "index": 44,
+    "metadataType": "CustomObject",
+    "metadataName": "Consent_Request_Item__c"
+  },
+  {
+    "index": 45,
+    "metadataType": "CustomObject",
+    "metadataName": "ConsumptionRate"
+  },
+  {
+    "index": 46,
+    "metadataType": "CustomObject",
+    "metadataName": "ConsumptionSchedule"
+  },
+  {
+    "index": 47,
+    "metadataType": "CustomObject",
+    "metadataName": "Contact"
+  },
+  {
+    "index": 48,
+    "metadataType": "CustomObject",
+    "metadataName": "ContactCleanInfo"
+  },
+  {
+    "index": 49,
+    "metadataType": "CustomObject",
+    "metadataName": "ContactPointAddress"
+  },
+  {
+    "index": 50,
+    "metadataType": "CustomObject",
+    "metadataName": "ContactPointConsent"
+  },
+  {
+    "index": 51,
+    "metadataType": "CustomObject",
+    "metadataName": "ContactPointEmail"
+  },
+  {
+    "index": 52,
+    "metadataType": "CustomObject",
+    "metadataName": "ContactPointPhone"
+  },
+  {
+    "index": 53,
+    "metadataType": "CustomObject",
+    "metadataName": "ContactPointTypeConsent"
+  },
+  {
+    "index": 54,
+    "metadataType": "CustomObject",
+    "metadataName": "ContactRequest"
+  },
+  {
+    "index": 55,
+    "metadataType": "CustomObject",
+    "metadataName": "ContentDocument"
+  },
+  {
+    "index": 56,
+    "metadataType": "CustomObject",
+    "metadataName": "ContentVersion"
+  },
+  {
+    "index": 57,
+    "metadataType": "CustomObject",
+    "metadataName": "Contract"
+  },
+  {
+    "index": 58,
+    "metadataType": "CustomObject",
+    "metadataName": "ContractContactRole"
+  },
+  {
+    "index": 59,
+    "metadataType": "CustomObject",
+    "metadataName": "ContractLineItem"
+  },
+  {
+    "index": 60,
+    "metadataType": "CustomObject",
+    "metadataName": "ConvEntryRelatedRecordCopy"
+  },
+  {
+    "index": 61,
+    "metadataType": "CustomObject",
+    "metadataName": "ConversationApiLog"
+  },
+  {
+    "index": 62,
+    "metadataType": "CustomObject",
+    "metadataName": "ConversationApiLogObjSum"
+  },
+  {
+    "index": 63,
+    "metadataType": "CustomObject",
+    "metadataName": "ConversationEntryCopy"
+  },
+  {
+    "index": 64,
+    "metadataType": "CustomObject",
+    "metadataName": "CR__c"
+  },
+  {
+    "index": 65,
+    "metadataType": "CustomObject",
+    "metadataName": "CreditMemo"
+  },
+  {
+    "index": 66,
+    "metadataType": "CustomObject",
+    "metadataName": "CreditMemoInvApplication"
+  },
+  {
+    "index": 67,
+    "metadataType": "CustomObject",
+    "metadataName": "CreditMemoLine"
+  },
+  {
+    "index": 68,
+    "metadataType": "CustomObject",
+    "metadataName": "Cursor__c"
+  },
+  {
+    "index": 69,
+    "metadataType": "CustomObject",
+    "metadataName": "Customer"
+  },
+  {
+    "index": 70,
+    "metadataType": "CustomObject",
+    "metadataName": "DandBCompany"
+  },
+  {
+    "index": 71,
+    "metadataType": "CustomObject",
+    "metadataName": "DataMaskCustomValueLibrary"
+  },
+  {
+    "index": 72,
+    "metadataType": "CustomObject",
+    "metadataName": "DataUseLegalBasis"
+  },
+  {
+    "index": 73,
+    "metadataType": "CustomObject",
+    "metadataName": "DataUsePurpose"
+  },
+  {
+    "index": 74,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsActivityLog"
+  },
+  {
+    "index": 75,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsEnvDeployment"
+  },
+  {
+    "index": 76,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsEnvDeploymentMbr"
+  },
+  {
+    "index": 77,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsEnvironment"
+  },
+  {
+    "index": 78,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsPipeline"
+  },
+  {
+    "index": 79,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsPipelineEnvironment"
+  },
+  {
+    "index": 80,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsPipelineStage"
+  },
+  {
+    "index": 81,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsPipelineStageTrigger"
+  },
+  {
+    "index": 82,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsPipelineTestProvider"
+  },
+  {
+    "index": 83,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsPipelnStgProm"
+  },
+  {
+    "index": 84,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsPipelnStgPromWkItem"
+  },
+  {
+    "index": 85,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsProject"
+  },
+  {
+    "index": 86,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsProjectEnvironment"
+  },
+  {
+    "index": 87,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsProjectPipeline"
+  },
+  {
+    "index": 88,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsQualityGate"
+  },
+  {
+    "index": 89,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsQualityGateResult"
+  },
+  {
+    "index": 90,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsQualityGateRule"
+  },
+  {
+    "index": 91,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsQualityGateRuleResult"
+  },
+  {
+    "index": 92,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsRequestInfo"
+  },
+  {
+    "index": 93,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsTest"
+  },
+  {
+    "index": 94,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsTestExecution"
+  },
+  {
+    "index": 95,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsTestProviderSyncLog"
+  },
+  {
+    "index": 96,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsTestSuite"
+  },
+  {
+    "index": 97,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsTestSuiteExecution"
+  },
+  {
+    "index": 98,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsTestSuiteGroupExec"
+  },
+  {
+    "index": 99,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsTestSuiteStage"
+  },
+  {
+    "index": 100,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsTestSuiteTest"
+  },
+  {
+    "index": 101,
+    "metadataType": "CustomObject",
+    "metadataName": "DevopsWkItmTstSteGrpExec"
+  },
+  {
+    "index": 102,
+    "metadataType": "CustomObject",
+    "metadataName": "DigitalWallet"
+  },
+  {
+    "index": 103,
+    "metadataType": "CustomObject",
+    "metadataName": "DuplicateRecordItem"
+  },
+  {
+    "index": 104,
+    "metadataType": "CustomObject",
+    "metadataName": "DuplicateRecordSet"
+  },
+  {
+    "index": 105,
+    "metadataType": "CustomObject",
+    "metadataName": "EmailMessage"
+  },
+  {
+    "index": 106,
+    "metadataType": "CustomObject",
+    "metadataName": "Energy_Audit__c"
+  },
+  {
+    "index": 107,
+    "metadataType": "CustomObject",
+    "metadataName": "EngagementChannelType"
+  },
+  {
+    "index": 108,
+    "metadataType": "CustomObject",
+    "metadataName": "Entitlement"
+  },
+  {
+    "index": 109,
+    "metadataType": "CustomObject",
+    "metadataName": "EntitlementContact"
+  },
+  {
+    "index": 110,
+    "metadataType": "CustomObject",
+    "metadataName": "EntityMilestone"
+  },
+  {
+    "index": 111,
+    "metadataType": "CustomObject",
+    "metadataName": "Event"
+  },
+  {
+    "index": 112,
+    "metadataType": "CustomObject",
+    "metadataName": "ExchangeUserMapping"
+  },
+  {
+    "index": 113,
+    "metadataType": "CustomObject",
+    "metadataName": "ExpressionFilter"
+  },
+  {
+    "index": 114,
+    "metadataType": "CustomObject",
+    "metadataName": "ExpressionFilterCriteria"
+  },
+  {
+    "index": 115,
+    "metadataType": "CustomObject",
+    "metadataName": "ExternalEventMapping"
+  },
+  {
+    "index": 116,
+    "metadataType": "CustomObject",
+    "metadataName": "ExtlRecShrStagedRecord"
+  },
+  {
+    "index": 117,
+    "metadataType": "CustomObject",
+    "metadataName": "Favorite__c"
+  },
+  {
+    "index": 118,
+    "metadataType": "CustomObject",
+    "metadataName": "FeedItem"
+  },
+  {
+    "index": 119,
+    "metadataType": "CustomObject",
+    "metadataName": "FinanceBalanceSnapshot"
+  },
+  {
+    "index": 120,
+    "metadataType": "CustomObject",
+    "metadataName": "FinanceTransaction"
+  },
+  {
+    "index": 121,
+    "metadataType": "CustomObject",
+    "metadataName": "Fix_Manual_Ready__c"
+  },
+  {
+    "index": 122,
+    "metadataType": "CustomObject",
+    "metadataName": "FlowOrchestrationInstance"
+  },
+  {
+    "index": 123,
+    "metadataType": "CustomObject",
+    "metadataName": "FlowOrchestrationLog"
+  },
+  {
+    "index": 124,
+    "metadataType": "CustomObject",
+    "metadataName": "FlowOrchestrationStageInstance"
+  },
+  {
+    "index": 125,
+    "metadataType": "CustomObject",
+    "metadataName": "FlowOrchestrationStepInstance"
+  },
+  {
+    "index": 126,
+    "metadataType": "CustomObject",
+    "metadataName": "FlowOrchestrationVersion"
+  },
+  {
+    "index": 127,
+    "metadataType": "CustomObject",
+    "metadataName": "FlowOrchestrationWorkItem"
+  },
+  {
+    "index": 128,
+    "metadataType": "CustomObject",
+    "metadataName": "GisPrvdCnctrJobObjRun"
+  },
+  {
+    "index": 129,
+    "metadataType": "CustomObject",
+    "metadataName": "Idea"
+  },
+  {
+    "index": 130,
+    "metadataType": "CustomObject",
+    "metadataName": "Image"
+  },
+  {
+    "index": 131,
+    "metadataType": "CustomObject",
+    "metadataName": "Incident"
+  },
+  {
+    "index": 132,
+    "metadataType": "CustomObject",
+    "metadataName": "IncidentRelatedItem"
+  },
+  {
+    "index": 133,
+    "metadataType": "CustomObject",
+    "metadataName": "Individual"
+  },
+  {
+    "index": 134,
+    "metadataType": "CustomObject",
+    "metadataName": "Invoice"
+  },
+  {
+    "index": 135,
+    "metadataType": "CustomObject",
+    "metadataName": "InvoiceLine"
+  },
+  {
+    "index": 136,
+    "metadataType": "CustomObject",
+    "metadataName": "Lead"
+  },
+  {
+    "index": 137,
+    "metadataType": "CustomObject",
+    "metadataName": "LeadCleanInfo"
+  },
+  {
+    "index": 138,
+    "metadataType": "CustomObject",
+    "metadataName": "LegalEntity"
+  },
+  {
+    "index": 139,
+    "metadataType": "CustomObject",
+    "metadataName": "Location"
+  },
+  {
+    "index": 140,
+    "metadataType": "CustomObject",
+    "metadataName": "LocationGroup"
+  },
+  {
+    "index": 141,
+    "metadataType": "CustomObject",
+    "metadataName": "LocationGroupAssignment"
+  },
+  {
+    "index": 142,
+    "metadataType": "CustomObject",
+    "metadataName": "Macro"
+  },
+  {
+    "index": 143,
+    "metadataType": "CustomObject",
+    "metadataName": "MacroAction"
+  },
+  {
+    "index": 144,
+    "metadataType": "CustomObject",
+    "metadataName": "MacroInstruction"
+  },
+  {
+    "index": 145,
+    "metadataType": "CustomObject",
+    "metadataName": "MacroUsage"
+  },
+  {
+    "index": 146,
+    "metadataType": "CustomObject",
+    "metadataName": "Management__c"
+  },
+  {
+    "index": 147,
+    "metadataType": "CustomObject",
+    "metadataName": "MessagingEndUser"
+  },
+  {
+    "index": 148,
+    "metadataType": "CustomObject",
+    "metadataName": "MessagingSession"
+  },
+  {
+    "index": 149,
+    "metadataType": "CustomObject",
+    "metadataName": "Metadata_Query_Validation__c"
+  },
+  {
+    "index": 150,
+    "metadataType": "CustomObject",
+    "metadataName": "MLModel"
+  },
+  {
+    "index": 151,
+    "metadataType": "CustomObject",
+    "metadataName": "MLModelFactor"
+  },
+  {
+    "index": 152,
+    "metadataType": "CustomObject",
+    "metadataName": "MLModelFactorComponent"
+  },
+  {
+    "index": 153,
+    "metadataType": "CustomObject",
+    "metadataName": "Monday_Automation_Test__c"
+  },
+  {
+    "index": 154,
+    "metadataType": "CustomObject",
+    "metadataName": "Offer__c"
+  },
+  {
+    "index": 155,
+    "metadataType": "CustomObject",
+    "metadataName": "Opportunity"
+  },
+  {
+    "index": 156,
+    "metadataType": "CustomObject",
+    "metadataName": "OpportunityCompetitor"
+  },
+  {
+    "index": 157,
+    "metadataType": "CustomObject",
+    "metadataName": "OpportunityContactRole"
+  },
+  {
+    "index": 158,
+    "metadataType": "CustomObject",
+    "metadataName": "OpportunityLineItem"
+  },
+  {
+    "index": 159,
+    "metadataType": "CustomObject",
+    "metadataName": "OpportunityRelatedDeleteLog"
+  },
+  {
+    "index": 160,
+    "metadataType": "CustomObject",
+    "metadataName": "Order"
+  },
+  {
+    "index": 161,
+    "metadataType": "CustomObject",
+    "metadataName": "OrderItem"
+  },
+  {
+    "index": 162,
+    "metadataType": "CustomObject",
+    "metadataName": "OrgDeleteRequest"
+  },
+  {
+    "index": 163,
+    "metadataType": "CustomObject",
+    "metadataName": "OrgMetricScanResult"
+  },
+  {
+    "index": 164,
+    "metadataType": "CustomObject",
+    "metadataName": "OrgMetricScanSummary"
+  },
+  {
+    "index": 165,
+    "metadataType": "CustomObject",
+    "metadataName": "PartnerRole"
+  },
+  {
+    "index": 166,
+    "metadataType": "CustomObject",
+    "metadataName": "PartyConsent"
+  },
+  {
+    "index": 167,
+    "metadataType": "CustomObject",
+    "metadataName": "Payment"
+  },
+  {
+    "index": 168,
+    "metadataType": "CustomObject",
+    "metadataName": "PaymentAuthAdjustment"
+  },
+  {
+    "index": 169,
+    "metadataType": "CustomObject",
+    "metadataName": "PaymentAuthorization"
+  },
+  {
+    "index": 170,
+    "metadataType": "CustomObject",
+    "metadataName": "PaymentGateway"
+  },
+  {
+    "index": 171,
+    "metadataType": "CustomObject",
+    "metadataName": "PaymentGroup"
+  },
+  {
+    "index": 172,
+    "metadataType": "CustomObject",
+    "metadataName": "PaymentLineInvoice"
+  },
+  {
+    "index": 173,
+    "metadataType": "CustomObject",
+    "metadataName": "PaymentMethod"
+  },
+  {
+    "index": 174,
+    "metadataType": "CustomObject",
+    "metadataName": "Pricebook2"
+  },
+  {
+    "index": 175,
+    "metadataType": "CustomObject",
+    "metadataName": "PricebookEntry"
+  },
+  {
+    "index": 176,
+    "metadataType": "CustomObject",
+    "metadataName": "PrivacyJobSession"
+  },
+  {
+    "index": 177,
+    "metadataType": "CustomObject",
+    "metadataName": "PrivacyRTBFRequest"
+  },
+  {
+    "index": 178,
+    "metadataType": "CustomObject",
+    "metadataName": "Problem"
+  },
+  {
+    "index": 179,
+    "metadataType": "CustomObject",
+    "metadataName": "ProblemIncident"
+  },
+  {
+    "index": 180,
+    "metadataType": "CustomObject",
+    "metadataName": "ProblemRelatedItem"
+  },
+  {
+    "index": 181,
+    "metadataType": "CustomObject",
+    "metadataName": "ProcessException"
+  },
+  {
+    "index": 182,
+    "metadataType": "CustomObject",
+    "metadataName": "Product2"
+  },
+  {
+    "index": 183,
+    "metadataType": "CustomObject",
+    "metadataName": "ProductConsumptionSchedule"
+  },
+  {
+    "index": 184,
+    "metadataType": "CustomObject",
+    "metadataName": "PromptAction"
+  },
+  {
+    "index": 185,
+    "metadataType": "CustomObject",
+    "metadataName": "PromptError"
+  },
+  {
+    "index": 186,
+    "metadataType": "CustomObject",
+    "metadataName": "Property__c"
+  },
+  {
+    "index": 187,
+    "metadataType": "CustomObject",
+    "metadataName": "QuickText"
+  },
+  {
+    "index": 188,
+    "metadataType": "CustomObject",
+    "metadataName": "QuickTextUsage"
+  },
+  {
+    "index": 189,
+    "metadataType": "CustomObject",
+    "metadataName": "Recommendation"
+  },
+  {
+    "index": 190,
+    "metadataType": "CustomObject",
+    "metadataName": "RecordAction"
+  },
+  {
+    "index": 191,
+    "metadataType": "CustomObject",
+    "metadataName": "RecordMergeHistory"
+  },
+  {
+    "index": 192,
+    "metadataType": "CustomObject",
+    "metadataName": "Refund"
+  },
+  {
+    "index": 193,
+    "metadataType": "CustomObject",
+    "metadataName": "RefundLinePayment"
+  },
+  {
+    "index": 194,
+    "metadataType": "CustomObject",
+    "metadataName": "Report_Request_Item__c"
+  },
+  {
+    "index": 195,
+    "metadataType": "CustomObject",
+    "metadataName": "ReportAnomalyEventStore"
+  },
+  {
+    "index": 196,
+    "metadataType": "CustomObject",
+    "metadataName": "ReportHierarchyObjectField"
+  },
+  {
+    "index": 197,
+    "metadataType": "CustomObject",
+    "metadataName": "Scorecard"
+  },
+  {
+    "index": 198,
+    "metadataType": "CustomObject",
+    "metadataName": "ScorecardAssociation"
+  },
+  {
+    "index": 199,
+    "metadataType": "CustomObject",
+    "metadataName": "ScorecardMetric"
+  },
+  {
+    "index": 200,
+    "metadataType": "CustomObject",
+    "metadataName": "SearchRecentQuery"
+  },
+  {
+    "index": 201,
+    "metadataType": "CustomObject",
+    "metadataName": "SecurityHealthCheckAlertRecipient"
+  },
+  {
+    "index": 202,
+    "metadataType": "CustomObject",
+    "metadataName": "SecurityHealthCheckResult"
+  },
+  {
+    "index": 203,
+    "metadataType": "CustomObject",
+    "metadataName": "Seller"
+  },
+  {
+    "index": 204,
+    "metadataType": "CustomObject",
+    "metadataName": "ServiceContract"
+  },
+  {
+    "index": 205,
+    "metadataType": "CustomObject",
+    "metadataName": "SfdcPartnerSbscrOffer"
+  },
+  {
+    "index": 206,
+    "metadataType": "CustomObject",
+    "metadataName": "SfdcPartnerSbscrOfferItem"
+  },
+  {
+    "index": 207,
+    "metadataType": "CustomObject",
+    "metadataName": "Site"
+  },
+  {
+    "index": 208,
+    "metadataType": "CustomObject",
+    "metadataName": "SlackChannelRelatedRecord"
+  },
+  {
+    "index": 209,
+    "metadataType": "CustomObject",
+    "metadataName": "SocialPersona"
+  },
+  {
+    "index": 210,
+    "metadataType": "CustomObject",
+    "metadataName": "Solution"
+  },
+  {
+    "index": 211,
+    "metadataType": "CustomObject",
+    "metadataName": "SourceCodeRepoProvider"
+  },
+  {
+    "index": 212,
+    "metadataType": "CustomObject",
+    "metadataName": "SourceCodeRepository"
+  },
+  {
+    "index": 213,
+    "metadataType": "CustomObject",
+    "metadataName": "SourceCodeRepositoryBranch"
+  },
+  {
+    "index": 214,
+    "metadataType": "CustomObject",
+    "metadataName": "StreamActivityAccess"
+  },
+  {
+    "index": 215,
+    "metadataType": "CustomObject",
+    "metadataName": "StreamingChannel"
+  },
+  {
+    "index": 216,
+    "metadataType": "CustomObject",
+    "metadataName": "TableauHostMapping"
+  },
+  {
+    "index": 217,
+    "metadataType": "CustomObject",
+    "metadataName": "Task"
+  },
+  {
+    "index": 218,
+    "metadataType": "CustomObject",
+    "metadataName": "Test_Object__c"
+  },
+  {
+    "index": 219,
+    "metadataType": "CustomObject",
+    "metadataName": "Thursday_Test__c"
+  },
+  {
+    "index": 220,
+    "metadataType": "CustomObject",
+    "metadataName": "Topic"
+  },
+  {
+    "index": 221,
+    "metadataType": "CustomObject",
+    "metadataName": "TopicAssignment"
+  },
+  {
+    "index": 222,
+    "metadataType": "CustomObject",
+    "metadataName": "UnstructuredStorageSpace"
+  },
+  {
+    "index": 223,
+    "metadataType": "CustomObject",
+    "metadataName": "UnstructuredStorageSpaceLayer"
+  },
+  {
+    "index": 224,
+    "metadataType": "CustomObject",
+    "metadataName": "User"
+  },
+  {
+    "index": 225,
+    "metadataType": "CustomObject",
+    "metadataName": "UserCapabilityPreference"
+  },
+  {
+    "index": 226,
+    "metadataType": "CustomObject",
+    "metadataName": "UserDevopsPreference"
+  },
+  {
+    "index": 227,
+    "metadataType": "CustomObject",
+    "metadataName": "UserExternalCredential"
+  },
+  {
+    "index": 228,
+    "metadataType": "CustomObject",
+    "metadataName": "UserLocalWebServerIdentity"
+  },
+  {
+    "index": 229,
+    "metadataType": "CustomObject",
+    "metadataName": "UserPrioritizedRecord"
+  },
+  {
+    "index": 230,
+    "metadataType": "CustomObject",
+    "metadataName": "UserProvisioningRequest"
+  },
+  {
+    "index": 231,
+    "metadataType": "CustomObject",
+    "metadataName": "Work_Management__c"
+  },
+  {
+    "index": 232,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkBadge"
+  },
+  {
+    "index": 233,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkBadgeDefinition"
+  },
+  {
+    "index": 234,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkflowSLAAction"
+  },
+  {
+    "index": 235,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkItem"
+  },
+  {
+    "index": 236,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkItemComponent"
+  },
+  {
+    "index": 237,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkItemComponentList"
+  },
+  {
+    "index": 238,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkOrder"
+  },
+  {
+    "index": 239,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkOrderLineItem"
+  },
+  {
+    "index": 240,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkPlan"
+  },
+  {
+    "index": 241,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkPlanTemplate"
+  },
+  {
+    "index": 242,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkPlanTemplateEntry"
+  },
+  {
+    "index": 243,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkStep"
+  },
+  {
+    "index": 244,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkStepTemplate"
+  },
+  {
+    "index": 245,
+    "metadataType": "CustomObject",
+    "metadataName": "WorkThanks"
+  }
+]

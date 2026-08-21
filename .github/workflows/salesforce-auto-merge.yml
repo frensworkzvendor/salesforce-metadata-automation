@@ -94,10 +94,19 @@ jobs:
 
             }
 
+            const result =
+              await github.rest.pulls.get({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number
+              });
+
+            const pullRequest = result.data;
+
 
             core.setOutput(
               'number',
-              pr.number
+              pullRequest.number
             );
 
 
@@ -106,9 +115,16 @@ jobs:
               `${context.repo.owner}/${context.repo.repo}`
             );
 
+            core.setOutput(
+              'draft',
+              String(pullRequest.draft)
+            );
+
 
 
       - name: Merge Pull Request
+
+        if: steps.pr.outputs.draft == 'false'
 
         env:
 
@@ -128,3 +144,18 @@ jobs:
             --auto \
             --squash \
             --delete-branch
+
+
+      - name: Skip Draft Pull Request
+
+        if: steps.pr.outputs.draft == 'true'
+
+        env:
+
+          PR_NUMBER:
+            ${{ steps.pr.outputs.number }}
+
+
+        run: |
+
+          echo "::notice::Pull request #${PR_NUMBER} is still a draft. Auto merge will run after it becomes ready and validation succeeds."

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <description>用于存储和管理信息相关数据。</description>
+    <enableActivities>true</enableActivities>
+    <enableReports>true</enableReports>
+    <enableSearch>true</enableSearch>
+    <label>信息</label>
+    <nameField>
+        <displayFormat>INFO-{0000}</displayFormat>
+        <label>信息名称</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>信息</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+</CustomObject>

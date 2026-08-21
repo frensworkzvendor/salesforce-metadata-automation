@@ -1,0 +1,32 @@
+{
+  "snapshotDate": "2026-08-21",
+  "environmentName": "PROD",
+  "salesforceOrgId": "00DdL00000zSrfmUAC",
+  "instanceUrl": "https://curious-koala-6wp1o8-dev-ed.trailblaze.my.salesforce.com",
+  "retrievedAt": "2026-08-21T13:44:42+08:00",
+  "metadataSelection": {
+    "mode": "SELECTED",
+    "scope": "CustomField",
+    "discoveredTypeCount": 1,
+    "discoveredMemberCount": 84
+  },
+  "metadataInventory": {
+    "rowCount": 84,
+    "typeCount": 1,
+    "markdown": "reports/metadata-inventory.md",
+    "csv": "reports/metadata-inventory.csv",
+    "json": "reports/metadata-inventory.json",
+    "typeSummaryMarkdown": "reports/metadata-type-summary.md"
+  },
+  "retrievalResult": {
+    "retrievedFileCount": 100,
+    "retrievedSourceFileCount": 98,
+    "retrievedObjectCount": 16
+  },
+  "source": {
+    "repository": "frensworkzvendor/salesforce-metadata-automation",
+    "workflowRunId": "32451627522",
+    "workflowRunAttempt": "1",
+    "triggeredBy": "cursor[bot]"
+  }
+}

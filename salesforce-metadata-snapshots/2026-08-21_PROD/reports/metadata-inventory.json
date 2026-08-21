@@ -1,0 +1,422 @@
+[
+  {
+    "index": 1,
+    "metadataType": "CustomField",
+    "metadataName": "Account.Active__c"
+  },
+  {
+    "index": 2,
+    "metadataType": "CustomField",
+    "metadataName": "Account.CustomerPriority__c"
+  },
+  {
+    "index": 3,
+    "metadataType": "CustomField",
+    "metadataName": "Account.NumberofLocations__c"
+  },
+  {
+    "index": 4,
+    "metadataType": "CustomField",
+    "metadataName": "Account.SLA__c"
+  },
+  {
+    "index": 5,
+    "metadataType": "CustomField",
+    "metadataName": "Account.SLAExpirationDate__c"
+  },
+  {
+    "index": 6,
+    "metadataType": "CustomField",
+    "metadataName": "Account.SLASerialNumber__c"
+  },
+  {
+    "index": 7,
+    "metadataType": "CustomField",
+    "metadataName": "Account.UpsellOpportunity__c"
+  },
+  {
+    "index": 8,
+    "metadataType": "CustomField",
+    "metadataName": "Case.Consent_Request_Account__c"
+  },
+  {
+    "index": 9,
+    "metadataType": "CustomField",
+    "metadataName": "Case.EngineeringReqNumber__c"
+  },
+  {
+    "index": 10,
+    "metadataType": "CustomField",
+    "metadataName": "Case.Exception_Account__c"
+  },
+  {
+    "index": 11,
+    "metadataType": "CustomField",
+    "metadataName": "Case.PotentialLiability__c"
+  },
+  {
+    "index": 12,
+    "metadataType": "CustomField",
+    "metadataName": "Case.Product__c"
+  },
+  {
+    "index": 13,
+    "metadataType": "CustomField",
+    "metadataName": "Case.Report_Request_Account__c"
+  },
+  {
+    "index": 14,
+    "metadataType": "CustomField",
+    "metadataName": "Case.SLAViolation__c"
+  },
+  {
+    "index": 15,
+    "metadataType": "CustomField",
+    "metadataName": "Consent_Request_Item__c.Consent_Request__c"
+  },
+  {
+    "index": 16,
+    "metadataType": "CustomField",
+    "metadataName": "Contact.Client_Account__c"
+  },
+  {
+    "index": 17,
+    "metadataType": "CustomField",
+    "metadataName": "Contact.Data_Subject_Account__c"
+  },
+  {
+    "index": 18,
+    "metadataType": "CustomField",
+    "metadataName": "Contact.Languages__c"
+  },
+  {
+    "index": 19,
+    "metadataType": "CustomField",
+    "metadataName": "Contact.Level__c"
+  },
+  {
+    "index": 20,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.Actual_Completion_Date__c"
+  },
+  {
+    "index": 21,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.Approval_Comments__c"
+  },
+  {
+    "index": 22,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.CR_Number__c"
+  },
+  {
+    "index": 23,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.CR_Status__c"
+  },
+  {
+    "index": 24,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.CR_Type__c"
+  },
+  {
+    "index": 25,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.Description__c"
+  },
+  {
+    "index": 26,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.Impact_Scope__c"
+  },
+  {
+    "index": 27,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.Planned_Completion_Date__c"
+  },
+  {
+    "index": 28,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.Priority__c"
+  },
+  {
+    "index": 29,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.Related_Record_Id__c"
+  },
+  {
+    "index": 30,
+    "metadataType": "CustomField",
+    "metadataName": "CR__c.Submission_Date__c"
+  },
+  {
+    "index": 31,
+    "metadataType": "CustomField",
+    "metadataName": "Cursor__c.Execution_Result__c"
+  },
+  {
+    "index": 32,
+    "metadataType": "CustomField",
+    "metadataName": "Cursor__c.prompt_1__c"
+  },
+  {
+    "index": 33,
+    "metadataType": "CustomField",
+    "metadataName": "Cursor__c.Send_To_Cursor__c"
+  },
+  {
+    "index": 34,
+    "metadataType": "CustomField",
+    "metadataName": "Energy_Audit__c.Account__c"
+  },
+  {
+    "index": 35,
+    "metadataType": "CustomField",
+    "metadataName": "Energy_Audit__c.Annual_Energy_Usage_kWh__c"
+  },
+  {
+    "index": 36,
+    "metadataType": "CustomField",
+    "metadataName": "Energy_Audit__c.Audit_Notes__c"
+  },
+  {
+    "index": 37,
+    "metadataType": "CustomField",
+    "metadataName": "Energy_Audit__c.Average_Annual_Electric_Cost__c"
+  },
+  {
+    "index": 38,
+    "metadataType": "CustomField",
+    "metadataName": "Energy_Audit__c.Type_of_Installation__c"
+  },
+  {
+    "index": 39,
+    "metadataType": "CustomField",
+    "metadataName": "Favorite__c.Contact__c"
+  },
+  {
+    "index": 40,
+    "metadataType": "CustomField",
+    "metadataName": "Favorite__c.Property__c"
+  },
+  {
+    "index": 41,
+    "metadataType": "CustomField",
+    "metadataName": "Goal.OrigGoalId__c"
+  },
+  {
+    "index": 42,
+    "metadataType": "CustomField",
+    "metadataName": "Lead.CurrentGenerators__c"
+  },
+  {
+    "index": 43,
+    "metadataType": "CustomField",
+    "metadataName": "Lead.NumberofLocations__c"
+  },
+  {
+    "index": 44,
+    "metadataType": "CustomField",
+    "metadataName": "Lead.Primary__c"
+  },
+  {
+    "index": 45,
+    "metadataType": "CustomField",
+    "metadataName": "Lead.ProductInterest__c"
+  },
+  {
+    "index": 46,
+    "metadataType": "CustomField",
+    "metadataName": "Lead.SICCode__c"
+  },
+  {
+    "index": 47,
+    "metadataType": "CustomField",
+    "metadataName": "Management__c.Description__c"
+  },
+  {
+    "index": 48,
+    "metadataType": "CustomField",
+    "metadataName": "Management__c.End_Date__c"
+  },
+  {
+    "index": 49,
+    "metadataType": "CustomField",
+    "metadataName": "Management__c.Owner__c"
+  },
+  {
+    "index": 50,
+    "metadataType": "CustomField",
+    "metadataName": "Management__c.Priority__c"
+  },
+  {
+    "index": 51,
+    "metadataType": "CustomField",
+    "metadataName": "Management__c.Start_Date__c"
+  },
+  {
+    "index": 52,
+    "metadataType": "CustomField",
+    "metadataName": "Management__c.Status__c"
+  },
+  {
+    "index": 53,
+    "metadataType": "CustomField",
+    "metadataName": "Metric.OrigMetricId__c"
+  },
+  {
+    "index": 54,
+    "metadataType": "CustomField",
+    "metadataName": "Monday_Automation_Test__c.Automation_Source__c"
+  },
+  {
+    "index": 55,
+    "metadataType": "CustomField",
+    "metadataName": "Monday_Automation_Test__c.Execution_Result__c"
+  },
+  {
+    "index": 56,
+    "metadataType": "CustomField",
+    "metadataName": "Monday_Automation_Test__c.Test_Date__c"
+  },
+  {
+    "index": 57,
+    "metadataType": "CustomField",
+    "metadataName": "Monday_Automation_Test__c.Test_Name__c"
+  },
+  {
+    "index": 58,
+    "metadataType": "CustomField",
+    "metadataName": "Monday_Automation_Test__c.Test_Status__c"
+  },
+  {
+    "index": 59,
+    "metadataType": "CustomField",
+    "metadataName": "Offer__c.Contact__c"
+  },
+  {
+    "index": 60,
+    "metadataType": "CustomField",
+    "metadataName": "Offer__c.Offer_Amount__c"
+  },
+  {
+    "index": 61,
+    "metadataType": "CustomField",
+    "metadataName": "Offer__c.Property__c"
+  },
+  {
+    "index": 62,
+    "metadataType": "CustomField",
+    "metadataName": "Offer__c.Target_Close_Date__c"
+  },
+  {
+    "index": 63,
+    "metadataType": "CustomField",
+    "metadataName": "Opportunity.CurrentGenerators__c"
+  },
+  {
+    "index": 64,
+    "metadataType": "CustomField",
+    "metadataName": "Opportunity.DeliveryInstallationStatus__c"
+  },
+  {
+    "index": 65,
+    "metadataType": "CustomField",
+    "metadataName": "Opportunity.MainCompetitors__c"
+  },
+  {
+    "index": 66,
+    "metadataType": "CustomField",
+    "metadataName": "Opportunity.OrderNumber__c"
+  },
+  {
+    "index": 67,
+    "metadataType": "CustomField",
+    "metadataName": "Opportunity.TrackingNumber__c"
+  },
+  {
+    "index": 68,
+    "metadataType": "CustomField",
+    "metadataName": "Property__c.Price__c"
+  },
+  {
+    "index": 69,
+    "metadataType": "CustomField",
+    "metadataName": "Property__c.Street_Address__c"
+  },
+  {
+    "index": 70,
+    "metadataType": "CustomField",
+    "metadataName": "Thursday_Test__c.Customer_Name__c"
+  },
+  {
+    "index": 71,
+    "metadataType": "CustomField",
+    "metadataName": "Thursday_Test__c.Status__c"
+  },
+  {
+    "index": 72,
+    "metadataType": "CustomField",
+    "metadataName": "Thursday_Test__c.Test_Date__c"
+  },
+  {
+    "index": 73,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Actual_Hours__c"
+  },
+  {
+    "index": 74,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Completed_Date__c"
+  },
+  {
+    "index": 75,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Completion_Percentage__c"
+  },
+  {
+    "index": 76,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Description__c"
+  },
+  {
+    "index": 77,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Due_Date__c"
+  },
+  {
+    "index": 78,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Estimated_Hours__c"
+  },
+  {
+    "index": 79,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Owner__c"
+  },
+  {
+    "index": 80,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Priority__c"
+  },
+  {
+    "index": 81,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Remark__c"
+  },
+  {
+    "index": 82,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Start_Date__c"
+  },
+  {
+    "index": 83,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Work_Status__c"
+  },
+  {
+    "index": 84,
+    "metadataType": "CustomField",
+    "metadataName": "Work_Management__c.Work_Type__c"
+  }
+]
